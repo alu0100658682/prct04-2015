@@ -1,2 +1,5 @@
 27¿Qué es RVM?
-Es una plataforma diseñada para realizar múltiples instalaciones de Ruby en el mismo equipo.
+	Es una plataforma diseñada para realizar múltiples instalaciones de Ruby en el mismo equipo.
+
+41. ¿Cuáles son las diferencias entre la ejecición del programa "Hola mundo" con el intérprete interactivo y con PRY?
+	El interprete ejecuta todo de una vez mientras que el pry va ejecutando paso a paso y permite hacer modificaciones.
